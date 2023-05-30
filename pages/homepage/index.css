@@ -1,0 +1,367 @@
+@font-face {
+  font-family: "better";
+  src: url(../../assets/fonts/better\ -\ Peronal\ Use.otf) format("opentype");
+  src: url(../../assets/fonts/better\ -\ Peronal\ Use.ttf) format(truetype);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "brittanic";
+  src: url(../../assets/fonts/Britannic\ Bold\ Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Carme&display=swap");
+
+#about-text {
+  color: white;
+  font-family: "brittanic";
+  font-size: 100px;
+  font-weight: normal;
+  margin: 0px;
+  text-shadow: 3px 8px 0px #a971f0;
+  margin-top: 60px;
+}
+
+#clock-img {
+  width: 530px;
+  margin-left: 60px;
+}
+
+#coment {
+  width: 380px;
+}
+
+#flower-donut-img {
+  width: 552px;
+}
+
+#flower-donut-text {
+  color: white;
+  font-family: "better";
+  font-size: 100px;
+  font-weight: normal;
+  margin: 0px;
+}
+
+#icon-facebook-banner {
+  height: 30px;
+}
+
+#icon-instagram-banner {
+  height: 35px;
+}
+
+#icon-twitter-banner {
+  height: 30px;
+}
+
+#icon-whatsapp-banner {
+  height: 40px;
+}
+
+#new-release-pink-text {
+  color: #ea4d8f;
+}
+
+#our-text {
+  color: #a1176f;
+  font-family: "better";
+  font-size: 75px;
+  font-weight: normal;
+  margin: 0px;
+  position: relative;
+  top: 38px;
+}
+
+#products-text {
+  color: #ef3a8b;
+  font-family: "brittanic";
+  font-size: 90px;
+  font-weight: normal;
+  text-shadow: 5px 8px 0px #e0ade9;
+  margin: 0px;
+  margin-left: 0px;
+}
+
+#us-text {
+  color: white;
+  font-family: "better";
+  font-size: 100px;
+  font-weight: normal;
+  margin: 0px;
+  position: relative;
+  bottom: 38px;
+}
+
+.about-us-dashes {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 120px;
+  right: 210px;
+}
+
+.about-us-img-wrapper {
+  display: flex;
+  top: 70px;
+  margin-left: 90px;
+}
+
+.about-us-long-text {
+  color: white;
+  font-family: "calibri";
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 80px;
+}
+
+.about-us-team-pink-signature {
+  color: #8b224e;
+}
+
+.about-us-team-signature {
+  text-align: center;
+  color: white;
+  font-family: "calibri";
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.about-us-text-and-dashes {
+  position: relative;
+}
+
+.about-us-dashes {
+  position: absolute;
+  left: 280px;
+}
+
+.about-us-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: 70px;
+}
+
+.about-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.absolute {
+  position: absolute;
+  width: 100%;
+}
+
+.arrow-icon {
+  width: 40px;
+}
+
+.background {
+  display: flex;
+}
+
+.background-blue {
+  background-color: #66c4e2;
+  width: 55%;
+  height: 560px;
+}
+
+.background-purple {
+  background-color: #35225b;
+  height: 263px;
+}
+
+.background-white {
+  background-color: #fcf7f7;
+  height: 400px;
+}
+
+.background-pink {
+  background-color: #de6799;
+  width: 45%;
+  height: 560px;
+}
+
+.background-pink-about-us {
+  align-items: center;
+  background-color: #de6799;
+  display: flex;
+  height: 663px;
+}
+
+.background-products-lilac {
+  background-color: #a971f0;
+  border-radius: 28px;
+  height: 224px;
+  width: 212px;
+}
+
+.background-products-pink {
+  background-color: #eeb1bf;
+  border-radius: 28px;
+  height: 224px;
+  width: 212px;
+}
+
+.background-products-yellow {
+  background-color: #fae991;
+  border-radius: 28px;
+  height: 224px;
+  width: 212px;
+}
+
+.background-white-contact {
+  background-color: #dbd8ca;
+  height: 443px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.balls-wrapper {
+  display: flex;
+  gap: 30px;
+}
+
+.balls-wrapper button {
+  background-color: #b2b2aa;
+  border-radius: 100%;
+  border: none;
+  height: 12px;
+  width: 12px;
+}
+
+.bg-contact-ball {
+  background-color: #E1DC54 !important;
+}
+
+body {
+  margin: 0;
+}
+
+.button {
+  background-image: linear-gradient(180deg, #f86286 0%, #a15ef5 100%);
+  border: none;
+  border-radius: 60px;
+  color: white;
+  font-family: "carme";
+  font-weight: normal;
+  font-size: 20px;
+  margin-left: 116px;
+  padding: 15px 28px;
+}
+
+.button a {
+  text-decoration: none;
+  color: white;
+}
+
+.button:hover {
+  background-image: linear-gradient(#eb4f69 0.52%, #9244f7 100%);
+  color: white;
+}
+
+.flower-donut {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flower-donut-wrapper {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 40px;
+  right: 340px;
+}
+
+.food-imgs {
+  width: 140px;
+}
+
+.food-links a {
+  text-decoration: none;
+  color: white;
+}
+
+.food-links:hover a {
+  color: #857b7e;
+}
+
+.food-links {
+  font-family: "calibri";
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-items {
+  text-decoration: none;
+  color: #f03857;
+}
+
+.our-products-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: 170px;
+}
+
+.our-products-text-wrapper {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+}
+
+.products-imgs {
+  align-items: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  top: -85px;
+}
+
+.products-imgs div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-icons {
+  display: flex;
+  gap: 15px;
+  margin: 20px 99px;
+  align-items: center;
+}
+
+.text-and-button-wrapper {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-start;
+  height: 435px;
+}
+
+.text-flower-donut {
+  color: white;
+  font-family: "Calibri";
+  font-weight: bolder;
+  font-size: 23px;
+  margin-left: 116px;
+  padding-bottom: 15px;
+}
+
+

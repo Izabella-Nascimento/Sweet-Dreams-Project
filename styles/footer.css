@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+
+#icon-facebook-footer {
+  height: 40px;
+}
+
+#icon-instagram-footer {
+  height: 44px;
+}
+
+#icon-whatsapp-footer {
+  height: 40px;
+}
+
+#icon-twitter-footer {
+  height: 38px;
+}
+
+.bolder-contacts {
+  font-weight: bolder;
+}
+
+.border-footer {
+  height: 160px;
+  margin-top: 30px;
+}
+
+.copyright {
+  color: #8B224E;
+  font-family: 'calibri';
+  margin-top: 5px;
+}
+
+footer {
+  background-color: #E1DC54;
+  height: 220px;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+.footer-contents {
+  display: flex;
+  gap: 85px;
+  color: #8B224E;
+  font-family: calibri;
+  margin-top: 30px;
+}
+
+.img-contact {
+  display: flex;
+  justify-content: center; 
+}
+
+.links-and-copyright-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-footer {
+  width: 140px;
+  padding-right: 30px;
+}
+
+.nav-footer {
+    color: #F03857;
+    display: flex;
+    font-size: 19px;
+    gap: 35px;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.nav-items:hover {
+  color: #b50935;
+}
+
+.social-media-icons-contact {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+

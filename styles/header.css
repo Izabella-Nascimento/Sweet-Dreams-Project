@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  align-items: center;
+  background-color: #FCF7F7; width: 1440px;
+  display: flex;
+  flex-direction: row;
+  gap: 328px;
+}
+
+.logo {
+  width: 120px;
+  padding-left: 105px;
+}
+
+nav {
+  color: #F03857;
+  display: flex;
+  font-size: 19px;
+  gap: 35px;
+  padding: 43px 20px 20px;
+}
+
+.nav-items {
+  font-family: 'Bayon', sans-serif;
+}
+
+.nav-items:hover {
+  color: #b50935;
+}

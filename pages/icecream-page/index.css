@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+
+#icecreams-banner-img {
+  width: 950px;
+  margin-top: 30px;
+}
+
+#icon-facebook-banner {
+  height: 30px;
+}
+
+#icon-instagram-banner {
+  height: 35px;
+}
+
+#icon-twitter-banner {
+  height: 30px;
+}
+
+#icon-whatsapp-banner {
+  height: 40px;
+}
+
+body {
+  margin: 0;
+}
+
+.icecreams-banner-img-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.lilac-background-icecreams {
+  background-color: #A971F0;
+  height: 560px;
+  position: relative;
+}
+
+.nav-items {
+  text-decoration: none;
+  color: #F03857;
+}
+
+.social-media-icons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin: 0px;
+  position: absolute; 
+  margin-left: 99px;
+  margin-top: 20px;
+}
+
+.first-food {
+  height: 220px;
+}
+
+.second-food {
+  height: 240px;
+}
+
+.third-food {
+  height: 220px;
+}
+
+.forth-food {
+  height: 230px;
+}
+
+.fifth-food {
+  height: 270px;
+}
+
+.sixth-food {
+  height: 220px;
+}
+
+.seventh-food {
+  height: 230px;
+}
+
+.eighth-food {
+  height: 200px;
+}

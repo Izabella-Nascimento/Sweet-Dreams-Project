@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+
+#donuts-banner-img {
+  width: 900px;
+}
+
+#icon-facebook-banner {
+  height: 30px;
+}
+
+#icon-instagram-banner {
+  height: 35px;
+}
+
+#icon-twitter-banner {
+  height: 30px;
+}
+
+#icon-whatsapp-banner {
+  height: 40px;
+}
+
+body {
+  margin: 0;
+}
+
+.donuts-banner-img-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-items {
+  text-decoration: none;
+  color: #F03857;
+}
+
+.new-circle {
+  height: 50px;
+  position: absolute;
+  top: -25px;
+  right: 10px;
+}
+
+.pink-background-donuts {
+  background-color: #F59FBC;
+  height: 560px;
+  position: relative;
+}
+
+.social-media-icons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin: 0px;
+  position: absolute; 
+  margin-left: 99px;
+  margin-top: 20px;
+}
+
+.first-food {
+  height: 280px;
+}
+
+.second-food {
+  height: 200px;
+}
+
+.third-food {
+  height: 180px;
+}
+
+.forth-food {
+  height: 210px;
+}
+
+.fifth-food {
+  height: 170px;
+}
+
+.sixth-food {
+  height: 160px;
+}
+
+.seventh-food {
+  height: 170px;
+}
+
+.eighth-food {
+  height: 180px;
+}
+
+
+

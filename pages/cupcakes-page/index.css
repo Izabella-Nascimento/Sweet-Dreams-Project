@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
+
+#cupcakes-banner-img {
+  width: 960px;
+}
+
+#icon-facebook-banner {
+  height: 30px;
+}
+
+#icon-instagram-banner {
+  height: 35px;
+}
+
+#icon-twitter-banner {
+  height: 30px;
+}
+
+#icon-whatsapp-banner {
+  height: 40px;
+}
+
+
+body {
+  margin: 0;
+}
+
+.cupcakes-banner-img-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-items {
+  text-decoration: none;
+  color: #F03857;
+}
+
+.social-media-icons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin: 0px;
+  position: absolute; 
+  margin-left: 99px;
+  margin-top: 20px;
+}
+
+.yellow-background-cupcakes {
+  background-color: #F2DE77;
+  height: 560px;
+  position: relative;
+}
+
+.first-food {
+  height: 290px;
+}
+
+.second-food {
+  height: 300px;
+}
+
+.third-food {
+  height: 300px;
+}
+
+.forth-food {
+  height: 290px;
+}
+
+.fifth-food {
+  height: 260px;
+}
+
+.sixth-food {
+  height: 270px;
+}
+
+.seventh-food {
+  height: 280px;
+}
+
+.eighth-food {
+  height: 280px;
+}
