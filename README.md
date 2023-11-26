@@ -25,7 +25,7 @@ Confira e utilize o projeto no <a href="https://izabella-nascimento.github.io/Sw
 
 
 <h2 id="descricao">:pencil2: Descrição</h2>
-O Sweet Dreams é uma página fictícia de sobremesas. Foi criada como projeto de conclusão de curso, socilitado pelo programa New Start Accenture, patrocinado pela Accenture em parceria com o Instituto Ser +. A página possui um design  moderno e fofo, construído em HTML, CSS e Javascript.   
+O Sweet Dreams é uma página fictícia de sobremesas. Foi criada como projeto de conclusão de curso, solicitado pelo programa New Start Accenture, patrocinado pela Accenture em parceria com o Instituto Ser +. A página possui um design  moderno e fofo, construído em HTML, CSS e Javascript.   
 
 <h2 id="funcionalidades">:hammer: Funcionalidades</h2>
 
