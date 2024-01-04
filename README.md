@@ -41,7 +41,83 @@ O Sweet Dreams é uma página fictícia de sobremesas. Foi criada como projeto d
 
 <h2 id="creditos">:pushpin: Créditos</h2>
 
-- Em Breve
+- ícone Facebook:  https://icons8.com/icon/87264/facebook
+
+- ícone Instagram:  https://icons8.com/icon/48841/instagram
+
+- ícone Whatsapp:  https://icons8.com/icon/16466/whatsapp
+
+- ícone Twitter:  https://icons8.com/icon/8824/twitter
+
+- Flower Donut do banner da página principal: https://br.pinterest.com/pin/844493672376831/
+
+- Donut do card da sessão “nossos produtos” e banner da página donuts: https://br.freepik.com/fotos-premium/ilustracao-de-ia-generativa-de-delicioso-donut-com-cobertura-de-chocolate-e-morango-levitando-sobre-o-prato-contra-um-fundo-cinza_36742837.htm#query=doninha%20vibrante&position=41&from_view=keyword&track=ais&uuid=4406c78c-04fa-4b23-8df4-66921fc830e8
+
+- Flower Donut da página de donuts: https://br.pinterest.com/pin/638877897165974142/
+
+- Cora Donut: https://br.pinterest.com/pin/9640586695198664/
+
+- Maracu Donut: https://br.pinterest.com/pin/9640586695198737/
+
+- Star Donut: https://br.pinterest.com/pin/411938697178564524/
+
+- Choco Donut: https://br.freepik.com/psd-gratuitas/renderizacao-3d-de-um-donut-de-chocolate_10865346.htm#query=donuts&position=41&from_view=search&track=sph&uuid=67cae555-2718-454c-9939-0fc2c28d7db5
+
+- Vanilla Donut: https://br.freepik.com/psd-gratuitas/renderizacao-3d-de-um-donut-com-cobertura-de-chocolate-branco_10865351.htm#page=2&query=donuts&position=6&from_view=search&track=sph&uuid=d4eb20b0-0146-4671-b743-3713ad07e292
+
+- Pink Donut: https://br.freepik.com/psd-gratuitas/renderizacao-3d-de-um-donut-com-cobertura-rosa_10865349.htm#query=donuts&position=14&from_view=search&track=sph&uuid=67cae555-2718-454c-9939-0fc2c28d7db5
+
+- Blueberry Donut: https://br.pinterest.com/pin/4714774602306069/
+
+- Pink Donut: https://br.freepik.com/psd-gratuitas/renderizacao-3d-de-um-donut-com-cobertura-rosa_10865349.htm#query=donuts&position=14&from_view=search&track=sph&uuid=67cae555-2718-454c-9939-0fc2c28d7db5
+
+- Blueberry Donut: https://br.pinterest.com/pin/4714774602306069/
+
+- Cup cake do card da sessão “nossos produtos” e banner da página cupcakes: https://br.pinterest.com/pin/56295064085848054/ versão original: https://thescranline.com/candy-meadow-cupcakes/
+
+- Magic Cupcake: https://thescranline.com/freakfetti-freakshake-cupcakes/
+
+- Dreamy Cake: https://thescranline.com/mollywaffle-freakshake-cupcakes/
+
+- Napolicake: https://thescranline.com/neapolitan-ice-cream-cupcakes/
+
+- Limon Cake: https://thescranline.com/bowl-bowl-ice-tea-cupcakes/
+
+- Apple Cake: https://thescranline.com/candy-apple-cupcakes/
+
+- Rainbow Cake: https://thescranline.com/happy-holigay-cupcakes/
+
+- Banana Cake:  https://thescranline.com/banana-split-cupcakes/
+
+- Abacacake: https://thescranline.com/hawaii-kawaii-cupcakes/
+
+- Sorvete do card da sessão “nossos produtos” e banner da página sorvetes: https://br.pinterest.com/pin/107945722312108155/
+
+- Carammel Dream: https://www.carvel.com/sundaes-and-shakes/sundae-dashers/reeses-peanut-butter-cup
+
+- Sweet Milk: https://br.pinterest.com/pin/371195194291616647/ por Carvel https://www.carvel.com/
+
+- Black Forest: https://www.carvel.com/sundaes-and-shakes/sundae-dashers/mint-chocolate-chip
+
+- Choco Milk: https://www.gironews.com/food-service/novas-sobremesas-39687/ por Burguer King https://www.burgerking.com.br/cardapio/filtro/sobremesas
+
+- Morangocream: https://br.pinterest.com/pin/109282728451167288/
+
+- Mintcream: https://www.istockphoto.com/br/foto/sorvete-de-menta-gm152149481-14046691
+
+- Chococream: https://br.freepik.com/fotos-gratis/chocolate-chip-sorvete-de-casquinha_1075625.htm?query=sorvetes#from_view=detail_alsolike
+
+- Cherrycream: https://br.pinterest.com/pin/330099847697967367/ por Carl’s Ice Cream https://www.carlsicecream.com/
+
+- Relógio de doces da parte do “Sobre Nós”: https://br.pinterest.com/pin/590604938646332162/ por https://br.pinterest.com/estudiobloom_/
+
+- Mulher 1 sessão de comentários:  https://br.pinterest.com/pin/257690409916965904/
+
+- Homem sessão de comentários:  https://br.pinterest.com/pin/474777985732820933/
+
+- Mulher 1 sessão de comentários: https://br.pinterest.com/pin/593630794644381289/
+
+
 
 <h2 id="tecnologias">:computer: Tecnologias</h2>
 <p align="center">
