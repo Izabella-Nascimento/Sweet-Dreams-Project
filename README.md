@@ -99,7 +99,7 @@ O Sweet Dreams é uma página fictícia de sobremesas. Foi criada como projeto d
 
 - Black Forest: https://www.carvel.com/sundaes-and-shakes/sundae-dashers/mint-chocolate-chip
 
-- Choco Milk: https://www.gironews.com/food-service/novas-sobremesas-39687/ por Burguer King https://www.burgerking.com.br/cardapio/filtro/sobremesas
+- Choco Milk: https://www.gironews.com/food-service/novas-sobremesas-39687/ por Burger King https://www.burgerking.com.br/cardapio/filtro/sobremesas
 
 - Morangocream: https://br.pinterest.com/pin/109282728451167288/
 
@@ -111,11 +111,11 @@ O Sweet Dreams é uma página fictícia de sobremesas. Foi criada como projeto d
 
 - Relógio de doces da parte do “Sobre Nós”: https://br.pinterest.com/pin/590604938646332162/ por https://br.pinterest.com/estudiobloom_/
 
-- Mulher 1 sessão de comentários:  https://br.pinterest.com/pin/257690409916965904/
+- Mulher 1 sessão de comentários: https://br.pinterest.com/pin/257690409916965904/
 
-- Homem sessão de comentários:  https://br.pinterest.com/pin/474777985732820933/
+- Homem sessão de comentários: https://br.pinterest.com/pin/474777985732820933/
 
-- Mulher 1 sessão de comentários: https://br.pinterest.com/pin/593630794644381289/
+- Mulher 2 sessão de comentários: https://br.pinterest.com/pin/593630794644381289/
 
 
 
